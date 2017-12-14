@@ -1,0 +1,58 @@
+    
+        table {
+            border: 1px solid black;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background-color: lightgrey;
+        }
+
+        th,
+        td {
+            padding: 15px;
+            text-align: center;
+            border: 1px solid black;
+        }
+
+        .hellblau {
+            background-color: lightblue;
+        }
+
+        .hellgelb {
+            background-color: lightyellow;
+        }
+
+        .rosa {
+            background-color: pink;
+        }
+
+        .hellgruen {
+            background-color: lightgreen;
+        }
+
+        .blau {
+            background-color: darkcyan;
+        }
+
+        #gruen {
+            background-color: green;
+        }
+
+        #ganzhellblau {
+            background-color: aliceblue;
+        }
+
+        #orange {
+            background-color: orange;
+        }
+
+        #sandfarben {
+            background-color: sandybrown;
+        }
+
+        #braun {
+            background-color: brown;
+        }
+   
